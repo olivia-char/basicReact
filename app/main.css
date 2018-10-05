@@ -1,0 +1,13 @@
+
+h1 {
+  margin: 20% 0% 40% 0%;
+  color: white;
+}
+h2 {
+  position: absolute;
+  color: blue;
+}
+body {
+  background-image: url("./assets/img/treeImg.jpg");
+  background-size: 100% 100%;
+}
